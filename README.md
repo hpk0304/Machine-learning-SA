@@ -1,2 +1,3 @@
 # Machine-learning-SA
-Web scraper, pre-processing, predictions
+Contents: Web scraper, pre-processing, predictions
+- Replicate the project in StemAway
